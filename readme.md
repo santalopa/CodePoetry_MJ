@@ -12,7 +12,4 @@ hhhh
 
 iii
 
-jjj
-kkk
-
-lll
+heteroscedasticity
